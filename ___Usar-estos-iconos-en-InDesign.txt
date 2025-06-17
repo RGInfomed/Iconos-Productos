@@ -1,0 +1,6 @@
+Para poder insertar estos iconos .SVG en documentos InDesign es necesario realizar los siguientes pasos:
+
+1. Abrir el .SVG en el programa InDesign.
+2. Copiar el contenido vectorial desde el programa InDesign (seleccionar todo y copiar).
+3. Pegar en el InDesign.
+4. Ya puedes colorear el icono con el tono que se requiera, como si fuera un texto o polígono.
